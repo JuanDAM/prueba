@@ -10,6 +10,7 @@ public class Conversor {
 	
 	public void setGrados(double grados){
 		this.grados = grados;
+		System.out.println("Modificación");
 	}
 	
 	public double getGrados(){
